@@ -1,0 +1,21 @@
+# LÖVE build artifacts
+*.love
+/dist/
+/build/
+/release/
+*.zip
+*.tar.gz
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*~
+
+# IDE / tooling folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+__pycache__/
+*.pyc
